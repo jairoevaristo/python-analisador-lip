@@ -22,4 +22,4 @@ Ao inicar, a aplicação solicitará o endereço do arquivo na qual será realiz
 
 Digite ou cole o endereço do arquivo, como o exemplo a seguir: 
 
-`C:/Users/Usuário/Desktop/exemplo-soma-python.txt`
+`C:\python-analisador-lip\exemplos\exemplo-soma-python.txt`
