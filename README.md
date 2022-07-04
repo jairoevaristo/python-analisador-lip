@@ -14,7 +14,7 @@ ou realize o download do arquivo zip 📦
 cd python-analisador-lip
 ```
 
-3 - Rode o projeto para executar em `src/src/Generator.java` ☕
+3 - Rode o projeto para executar em `src/src/python/Generator.java` ☕
 
 **Atenção** ⚠
 
